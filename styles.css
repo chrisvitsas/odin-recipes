@@ -1,0 +1,16 @@
+.alert-text {
+
+    color: red;
+    background-color: blue;
+    text-align: center;
+}
+div{
+    color: red;
+    background-color: blue;
+
+}
+.img{
+
+    height: auto;
+    width: 500px;
+}
